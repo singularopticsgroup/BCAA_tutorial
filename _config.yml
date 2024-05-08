@@ -3,6 +3,7 @@ description: Tutorial for the Binary Complex Amplitude App
 theme: just-the-docs
 
 url: https://singularopticsgroup.github.io/BCAA_tutorial
-
+color_scheme: dark
 aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: https://github.com/singularopticsgroup/BCAA_tutorial
+  
