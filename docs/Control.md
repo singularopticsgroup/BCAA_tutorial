@@ -5,7 +5,7 @@ has_children: true
 nav_order: 2
 ---
 ## [](#header-2)Control
-![](/lbsa/assets/images/Command_line.png)
+![](/BCAA_tutorial/assets/images/control_all.png)
 ![](/lbsa/assets/images/Control_full.png)
 
 The main part of this section of BCAA is the communication with external devices. The BCAA requires MATLAB 2023b or newer, with the Image Acqusition Toolbox. Additionally, user is responsible to install adaptors enabling software - camera communication, through add-ons avaialble within MATLAB. At the initation phase, the BCAA will check available components and display their status in the commend line.
