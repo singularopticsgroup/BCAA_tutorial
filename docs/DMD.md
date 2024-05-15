@@ -1,7 +1,7 @@
 ---
 title: DMD
 layout: default
-parent: Control
+parent: Device communication
 nav_order: 1
 ---
 ## [](#header-2)DMD
