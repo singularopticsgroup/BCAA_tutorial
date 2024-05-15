@@ -10,9 +10,7 @@ If the DMD is properly connected and BCAA has detected it, the black diode will 
   <img src="/./assets/images/DMD_Resolution.png">
 </p>
 
-Central push buttons (`Start`, `Save`, `Stop`, and `Free`) are responsible for communication with external hardware. In particular, `start` forces the recalculation of the currently displayed hologram, in case any parameter has been modified. `Save` allows the user to export the currently displayed hologram as an external image file. When external data is loaded and displayed at a fixed time on the DMD screen, the `Stop` button can be used to stop displaying new holograms. Then the `Free` button can be used to free device memory. Thanks to that the whole process can be repeated. 
-
-The toggle button `Auto update` switches between auto/manual mode. By default, the app operates in manual mode, which requires updating the hologram manually, through the `Start` button. The auto-update performs the update automatically. 
+Central push buttons (`Start`, `Save`, `Stop`, and `Free`) are responsible for communication with external hardware. In particular, `start` forces the recalculation of the currently displayed hologram, in case any parameter has been modified. `Save` allows the user to export the currently displayed hologram as an external image file. When external data is loaded and displayed with a fixed time on the DMD screen, the `Stop` button can be used to stop displaying new holograms. Then the `Free` button can be used to free device memory. Thanks to that the whole process can be repeated.  
 
 SLM Screen provides insights into the structure of the hologram currently displayed on the SLM. This will also remain active, even if the SLM is not connected, allowing to use the LBSA independently, as a hologram designing software. To do so, the user can modify the SLM resolution to control the resolution of the hologram that will be created. 
    
