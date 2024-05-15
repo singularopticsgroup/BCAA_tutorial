@@ -9,7 +9,9 @@ To operate, it requires a MATLAB R2023b or newer with an active Image Acquisitio
 
 The application is divided into two sections. The left section stands as an **control** one, allowing the user to see what kind of hologram is currently displayed at the DMD Screen, to load external data or control the external camera. The right section is responsible for **beam shaping** - the modification of hologram parameters as well as for operating the beam correction algorithms.
 
-
+<p align="center">
+  <img width="599" height="740" src="./assets/images/control_all.png">
+</p>
 
 
 ![](./assets/images/BCAA_v2.png)
