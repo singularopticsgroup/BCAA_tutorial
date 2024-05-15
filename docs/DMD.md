@@ -13,7 +13,11 @@ Central push buttons (`Start`, `Save`, `Stop`, and `Free`) are responsible for c
 <p align="center">
   <img src="/./assets/images/Start_Save.png">
 </p>
-Last created hologram provides insights into the structure of the hologram currently displayed on the DMD. This will also remain active, even if the DMD is not connected, allowing to use the BCAA independently, as a hologram designing software. To do so, the user can modify the DMD resolution to control the resolution of the hologram that will be created. 
+Last created hologram provides insights into the structure of the hologram currently displayed on the DMD. This will also remain active, even if the DMD is not connected, allowing to use the BCAA independently, as a hologram designing software. To do so, the user can modify the DMD resolution to control the resolution of the hologram that will be created.
+
+<p align="center">
+  <img src="/./assets/images/Last_created_hologram.png">
+</p>
    
 
 ----
