@@ -5,7 +5,7 @@ parent: Device communication
 nav_order: 1
 ---
 ## [](#header-2)DMD
-If the DMD is properly connected and BCAA has detected it, the black diode will turn green. Moreover, the DMD resolution will be automatically detected and displayed under the mentioned diode. On the right side of the diode 
+If the DMD is properly connected and BCAA has detected it, the black diode will turn green. Moreover, the DMD resolution will be automatically detected and displayed under the mentioned diode. If DMD is not connected the default value of the resolution is 1920x1080.
 <p align="center">
   <img src="/./assets/images/DMD Resolution.png">
 </p>
