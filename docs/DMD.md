@@ -7,7 +7,7 @@ nav_order: 1
 ## [](#header-2)DMD
 If the DMD is properly connected and BCAA has detected it, the black diode will turn green. Moreover, the DMD resolution will be automatically detected and displayed under the mentioned diode. On the right side of the diode 
 <p align="center">
-  <src="/./assets/images/DMD resolution.png">
+  <img src="/./assets/images/DMD Resolution.png">
 </p>
 Additionally, the list box provides an option to select the available camera.
 
