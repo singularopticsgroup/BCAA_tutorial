@@ -1,7 +1,7 @@
 ---
 title: Camera
 layout: default
-parent: Control
+parent: Device communication
 nav_order: 2
 ---
 ## [](#header-2)Camera
