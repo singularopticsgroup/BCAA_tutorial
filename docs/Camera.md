@@ -8,7 +8,10 @@ nav_order: 2
 
 This component is responsible for the app-camera connection. This is initiated simultaneously with the start of an app. The component first determines if the Image Acquisition Toolbox is present in the used version of the MATLAB software.
 Together with that, the app runs through each of the available add-on camera adapter, that enables connection with the camera. Such an add-on has to be installed separately according to the camera manufacturer's documentation, regarding camera operation through MATLAB.
-![](./assets/images/Connect_with_camera_whole_process.png)
+<p align="center">
+  <img src="/./assets/images/DMD_Resolution.png">
+</p>
+![](/./assets/images/Connect_with_camera_whole_process.png)
 The step-by-step notifications of this process are displayed in the command line:
 
 
