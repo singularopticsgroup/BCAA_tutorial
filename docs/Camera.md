@@ -10,13 +10,8 @@ This component is responsible for the app-camera connection. This is initiated s
 Together with that, the app runs through each of the available add-on camera adapter, that enables connection with the camera. Such an add-on has to be installed separately according to the camera manufacturer's documentation, regarding camera operation through MATLAB.
 
 ![](/./assets/images/Connect_with_camera_whole_process.png)
-The step-by-step notifications of this process are displayed in the command line:
-
-
 
 After the initiation, the user will be able to select one of the active camera adapters:
-
-
 
 Which successfully opens the app preview. In the last process, the user has to select the proper camera resolution in the camera selection toolbar:
 
