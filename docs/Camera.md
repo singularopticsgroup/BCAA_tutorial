@@ -11,21 +11,20 @@ Together with that, the app runs through each of the available add-on camera ada
 ![](./assets/images/Connect_with_camera_whole_process.png)
 The step-by-step notifications of this process are displayed in the command line:
 
-![](/lbsa/assets/images/Command_line.png)
+
 
 After the initiation, the user will be able to select one of the active camera adapters:
 
-![](/lbsa/assets/images/Initation_2.png)
+
 
 Which successfully opens the app preview. In the last process, the user has to select the proper camera resolution in the camera selection toolbar:
 
-![](/lbsa/assets/images/Camera_selection.png)
 
 This opens the new window with the live camera preview.
 
 User can easily modify camera parameters, such as brightness, contrast, expsoure or gain. To do so, once the preview is open, user has to click the _Options_ push botton, which will open a new pop-up window, where these parameters can be modified: 
 
-![](/lbsa/assets/images/Options.png)
+
 
 Once these parameters are set, the _Ok_ push button updates their values. User can modify each parameter either through the edit field or using the slider just next to it.
 
