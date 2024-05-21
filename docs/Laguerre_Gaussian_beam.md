@@ -9,7 +9,7 @@ nav_order: 4
 ## [](#header-2)Laguerre-Gaussian beam
 
 This function is responsible for the generation of the amplitude map of Laguerre-Gaussian beam. 
-Users can specify the azimuthal and radial indexes _(l,p)_.
+Users can specify the azimuthal and radial indexes (_l,p_).
 
 ![](/lbsa/assets/images/Phase_shift.png)
 
