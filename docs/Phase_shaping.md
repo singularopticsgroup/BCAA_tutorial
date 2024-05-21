@@ -1,11 +1,11 @@
 ---
-title: Phase shaping & transformation
+title: Amplitude modulation
 layout: default
-parent: Beam shaping
+parent: Graphic User Interface
 nav_order: 2
 has_children: true
 ---
-## [](#header-2)Phase shaping & transformation
+## [](#header-2)Amplitude modulation
 
 Phase shaping and Transformation tab possess most of the built-in laser beam shaping functions. 
 Each of them is designed as a separate internal function, which the user can turn on/off, controlling 
