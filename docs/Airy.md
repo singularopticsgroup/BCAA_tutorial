@@ -2,7 +2,7 @@
 title: Airy beam
 layout: default
 parent: Phase shaping & transformation
-grand_parent: Beam shaping
+grand_parent: Graphic User Interface
 nav_order: 1
 
 ---
