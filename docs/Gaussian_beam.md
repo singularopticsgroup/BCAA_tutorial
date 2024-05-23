@@ -15,7 +15,7 @@ This function is responsible for the Gaussian beam generation. Where the basic G
 $(x,y) = exp(\frac{-\rho^2}{w_{0}^2})$, where $\rho = \sqrt{x^2+y^2}$
 <p>
 The  $`w_{0}`$ is a beam waist, which users can control.
-
+http://mathurl.com/y2f3kpgg
 The generated amplitude map is presented below:
 
 
