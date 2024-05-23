@@ -5,7 +5,9 @@ parent: Light Structuring
 grand_parent: Graphic User Interface
 nav_order: 1
 format: html
-html-math-method: mathml
+html-math-method: 
+  method: mathjax
+  url: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMMLmathml
 ---
 ## [](#header-2)Gaussian beam
 
