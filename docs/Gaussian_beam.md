@@ -14,22 +14,7 @@ html-math-method: mathml
 
 This function is responsible for the Gaussian beam generation. Where the basic Gaussian beam equation, assuming that the propagation path equals 0 (z=0), is [1]:
 
-\begin{align}
-E(x,y) = exp(\frac{-\rho^2}{w_{0}^2}), where \rho = \sqrt{x^2+y^2}
-\end{align}
-
-
- 
-The  w_{0} is a beam waist, which users can control.
-
-\begin{align}
-E_D^{(1)} &=2\sum_{kk'}\left<kk'|V|kk'\right>
-\\
-&=\frac{2}{V}\sum_{kk'}\int d^3x V(x)
-\\
-&=\frac{N^2}{2V} \tilde{V}(0)
-\end{align}
-
+The  $$w_{0}$$ is a beam waist, which users can control.
 The generated amplitude map is presented below:
 
 <p align="center">
