@@ -26,9 +26,6 @@ The generated amplitude map is presented below, A) for \(w_{0}=2, \\ Gi=2\) and 
 </p>
 
 
-The function responsible for the Super Gaussian beam design allows the user to control the Gi parameter. 
-Below, is an example of a Super Gaussian beam with Gi=0 (Gaussian beam) and Gi=2. 
-
 
  
 
