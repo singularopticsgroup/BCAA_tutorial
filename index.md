@@ -19,10 +19,6 @@ Blokowy wzór kwadratowy:
 $$
 ax^2 + bx + c = 0
 $$
-require "latexmath"
-
-latex = "$$f_i =  \sum_{j=1}^2 s_{ij} n_j \quad {\rm for} \quad i = 1,2$$"
-mathml = Latexmath.parse(latex).to_mathml
 
 
 
