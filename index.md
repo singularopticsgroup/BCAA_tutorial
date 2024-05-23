@@ -12,13 +12,5 @@ The application is divided into two sections. The left section stands as an **co
 ![](./assets/images/BCAA_v2.png)
 
 
-Wzór kwadratowy to $ax^2 + bx + c = 0$.
-
-Blokowy wzór kwadratowy:
-
-$$
-ax^2 + bx + c = 0
-$$
-
 
 
