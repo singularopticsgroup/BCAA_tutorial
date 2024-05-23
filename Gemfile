@@ -6,6 +6,6 @@ gem "jekyll", "~> 4.3.3" # installed by `gem jekyll`
 gem "just-the-docs", "0.8.2" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 
-gem install specific_install
-gem specific_install -l https://github.com/tanakahisateru/jekyll-mathjax
+gem install "jekyll-mathjax"
+
 
