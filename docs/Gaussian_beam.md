@@ -6,7 +6,7 @@ grand_parent: Graphic User Interface
 nav_order: 1
 ---
 ## [](#header-2)Gaussian beam
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 This function is responsible for the Gaussian beam generation. Where the basic Gaussian beam equation, assuming that the propagation path equals 0 (z=0), is [1]:
 <p align="center">
 \(E(x,y) = exp(\frac{-\rho^2}{w_{0}^2})\), where \(\rho = \sqrt{x^2+y^2}\)
