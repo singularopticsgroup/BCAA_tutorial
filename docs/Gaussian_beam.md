@@ -4,11 +4,8 @@ layout: default
 parent: Light Structuring
 grand_parent: Graphic User Interface
 nav_order: 1
----
-title: "Math"
 format: html
 html-math-method: mathml
----
 ---
 ## [](#header-2)Gaussian beam
 
