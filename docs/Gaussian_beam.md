@@ -11,7 +11,8 @@ nav_order: 1
 ![](/lbsa/assets/images/Airy.png)
 
 
-This function is responsible for the Gaussian beam generation. 
+This function is responsible for the Gaussian beam generation. Where the basic Gaussian beam equation, assuming that the propagation path equals 0 (z=0), is:
+$E = (-rho^2/w_{0})$
 Users can specify the beam waist.
 
 The generated amplitude map is presented below:
