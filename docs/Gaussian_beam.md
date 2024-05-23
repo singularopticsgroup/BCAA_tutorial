@@ -14,7 +14,7 @@ nav_order: 1
 This function is responsible for the Gaussian beam generation. Where the basic Gaussian beam equation, assuming that the propagation path equals 0 (z=0), is:
 <p align="center">
 $E = (\frac{-\rho^2}{w_{0}^2})$
-<\p>
+<p>
  
 Users can specify the beam waist.
 
