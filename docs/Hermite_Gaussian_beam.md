@@ -23,8 +23,9 @@ where
   \(\mathbb{G}_{n}(u)=\mathbb{H}_{n}exp\left( \frac{-u^2}{2} \right) \), \(n=0,1,2,...\)
 <p>
 <p align="center">
-  \(\mathbb{G}_{m}(u)=\mathbb{H}_{m}exp\left( \frac{-u^2}{2} \right) \), \(m=0,1,2,...\)
+  \(\mathbb{G}_{m}(u)=\mathbb{H}_{m}exp\left( \frac{-u^2}{2} \right) \), \(m=0,1,2,...\).
 <p> 
+The \(\mathbb{H}_{n}\) and \mathbb{H}_{m} are known as Hermite polynomial of order \(n,m\).
 An example below presents the amplitude map of Hermite-Gaussian beam, 
 for the vertical mode _m_= 3 and the horizontal mode _n_= 3.
 <p align="center">
