@@ -11,7 +11,8 @@ The application is divided into two sections. The left section stands as an **co
 
 ![](./assets/images/BCAA_v2.png)
 
-
+fdghfd
+\( E = mc^2 \)
 fsdgdgfsdg
 
    $$ z_R = \frac{\pi w_0^2}{\lambda} $$
