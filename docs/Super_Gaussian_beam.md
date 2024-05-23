@@ -20,7 +20,7 @@ The \(w_{0}\) is a beam waist and parameter \(Gi\) is an order of Super-Gaussian
   <img src="/BCAA_tutorial/assets/images/Beam_waist.png">
 </p>
 
-The generated amplitude map is presented below, A) for \(w_{0}=2, \\ Gi=2\) and B) \(w_{0}=2, \\ Gi=6\), both _blazed grating_ with \(x,y=300\) :
+The generated amplitude map is presented below, A) for \(w_{0}=2, \\ Gi=2\) and B) \(w_{0}=2, \\ Gi=6\), both \(blazed\) \(grating\) with \(x,y=300\) :
 <p align="center">
   <img src="/BCAA_tutorial/assets/images/Super_Gaussian.png">
 </p>
