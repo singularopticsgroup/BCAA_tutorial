@@ -21,6 +21,14 @@ E(x,y) = exp(\frac{-\rho^2}{w_{0}^2}), where \rho = \sqrt{x^2+y^2}
  
 The  w_{0} is a beam waist, which users can control.
 
+\begin{align}
+E_D^{(1)} &=2\sum_{kk'}\left<kk'|V|kk'\right>
+\\
+&=\frac{2}{V}\sum_{kk'}\int d^3x V(x)
+\\
+&=\frac{N^2}{2V} \tilde{V}(0)
+\end{align}
+
 The generated amplitude map is presented below:
 
 <p align="center">
