@@ -16,7 +16,7 @@ nav_order: 3
 
 To generate an Hermite-Gaussian beam, the user has to specify two parameters: the vertical mode index _m_ and the horizontal mode index _n_. Both parameters are crucial in Hermite-Gaussian equetion: 
 <p align="center">
-\(E_{n,m}(x,y,z=0) = \mathbb{G}_{n}\left[\frac{\sqrt{2}\cdot x}{w_{0}} exp\left(-2\cdot\frac{-\rho^2}{w_{0}^2}\right)\)
+\(E_{n,m}(x,y,z=0) = \mathbb{G}_{n}\left[\frac{\sqrt{2}\cdot x}{w_{0}}\right] exp\left(-2\cdot\frac{-\rho^2}{w_{0}^2}\right)\)
 <p>
   
 An example below presents the amplitude map of Hermite-Gaussian beam, 
