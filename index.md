@@ -1,6 +1,6 @@
 ---
 title: Introduction
-layout: default
+layout: home
 nav_order: 1
 ---
 This tutorial was created to ensure support for the Binary Complex Amplitude App (BCAA), which was created in MATLAB software. Created to control over beam shaping processes. BCAA allows user to control both the Digital Micromirror Device (DMD) and an external camera.
@@ -13,8 +13,6 @@ The application is divided into two sections. The left section stands as an **co
 
 
 fsdgdgfsdg
-
-# Gaussian Beam Equations
 
 1. **Rayleigh Range**:
 
