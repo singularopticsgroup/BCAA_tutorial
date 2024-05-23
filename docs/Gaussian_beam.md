@@ -15,7 +15,9 @@ This function is responsible for the Gaussian beam generation. Where the basic G
 \(E(x,y,z=0) = exp\left(\frac{-\rho^2}{w_{0}^2}\right)\), where \(\rho = \sqrt{x^2+y^2}\)
 <p>
 The \(w_{0}\) is a beam waist, which users can control.
-
+<p align="center">
+  <img src="/BCAA_tutorial/assets/images/Beam_waist.png">
+</p>
 The generated amplitude map is presented below:
 <p align="center">
   <img src="/BCAA_tutorial/assets/images/Gauss1_2.png">
