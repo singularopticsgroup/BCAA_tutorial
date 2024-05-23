@@ -18,7 +18,7 @@ The \(w_{0}\) is a beam waist, which users can control.
 <p align="center">
   <img src="/BCAA_tutorial/assets/images/Beam_waist.png">
 </p>
-The generated amplitude map is presented below:
+The generated amplitude map is presented below, A) for \(w_{0}=1\) and B) \(w_{0}=2\):
 <p align="center">
   <img src="/BCAA_tutorial/assets/images/Gauss1_2.png">
 </p>
