@@ -25,3 +25,6 @@ fsdgdgfsdg
 3. **Electric Field Distribution**:
 
    $$ E(x,y,z) = E_0 \frac{w_0}{w(z)} \exp\left(-\frac{x^2 + y^2}{w(z)^2}\right) $$
+git add index.md
+git commit -m "Update index.md with LaTeX equations"
+git push origin main
