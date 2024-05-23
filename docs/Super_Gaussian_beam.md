@@ -13,7 +13,7 @@ nav_order: 2
 </p>
 Super Gaussian beam equation, assuming that the propagation path equals 0 (z=0), is [1]:
 <p align="center">
-\(E(x,y,z=0) = exp\left(-2\cdot\frac{-\rho^2}{w_{0}^2}\right)^{Gi}\), where \(\rho = \sqrt{x^2+y^2}\)
+\(E(x,y,z=0) = exp\left[-2\cdot\left(\frac{-\rho^2}{w_{0}^2}\right)\right]^{Gi}\), where \(\rho = \sqrt{x^2+y^2}\)
 <p>
 The \(w_{0}\) is a beam waist and parameter \(Gi\) is an order of Super-Gaussian beam, both of them users can control. Where for \(Gi=1\) Super-Gaussian beam becomes regular Gaussian beam.
 <p align="center">
