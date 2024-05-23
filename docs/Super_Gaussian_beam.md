@@ -10,7 +10,7 @@ nav_order: 2
 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <p align="center">
-  <img src="/BCAA_tutorial/assets/images/Gaussian_beam.png">
+  <img src="/BCAA_tutorial/assets/images/Super_Gaussian_box">
 </p>
 Super Gaussian beam equation, assuming that the propagation path equals 0 (z=0), is [1]:
 <p align="center">
@@ -20,9 +20,9 @@ The \(w_{0}\) is a beam waist and parameter \(Gi\) is an order of Super-Gaussian
 <p align="center">
   <img src="/BCAA_tutorial/assets/images/Beam_waist.png">
 </p>
-The generated amplitude map is presented below, A) for \(w_{0}=1\) and B) \(w_{0}=2\), both with \(blazed\) \(grating\) \(x,y=300\) :
+The generated amplitude map is presented below, A) for \(w_{0}=2, \\ Gi=2\) and B) \(w_{0}=2, \\ Gi=6\), both with \(blazed\) \(grating\) \(x,y=300\) :
 <p align="center">
-  <img src="/BCAA_tutorial/assets/images/Gauss1_2.png">
+  <img src="/BCAA_tutorial/assets/images/Super_Gaussian.png">
 </p>
 
 
