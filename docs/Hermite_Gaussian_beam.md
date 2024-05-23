@@ -20,7 +20,7 @@ To generate an Hermite-Gaussian beam, the user has to specify two parameters: th
 <p>
 where 
 <p align="center">
-\(\mathbb{G}_{n}=\),
+\(\mathbb{G}_{n}(u)=\mathbb{H}_{n}exp\left( \frac{-u^2}{2} \right) \), \(l=0,1,2,...\)
 <p>
   
 An example below presents the amplitude map of Hermite-Gaussian beam, 
