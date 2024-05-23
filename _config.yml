@@ -16,3 +16,6 @@ mathjax:
   # The MathJax configuration
   # Enables automatic equation numbering
   equationNumbers: { autoNumber: "AMS" }
+  
+plugins:
+  - jekyll-mathjax
