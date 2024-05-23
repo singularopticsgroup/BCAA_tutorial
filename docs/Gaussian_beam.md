@@ -11,9 +11,9 @@ nav_order: 1
 ![](/lbsa/assets/images/Airy.png)
 
 
-This function is responsible for the Gaussian beam generation. Where the basic Gaussian beam equation, assuming that the propagation path equals 0 (z=0), is:
+This function is responsible for the Gaussian beam generation. Where the basic Gaussian beam equation, assuming that the propagation path equals 0 (z=0), is [1]:
 <p align="center">
-$E = (\frac{-\rho^2}{w_{0}^2})$
+$E(x,y) = exp(\frac{-\rho^2}{w_{0}^2})$, where $\rho = \sqrt{x^2+y^2}$
 <p>
  
 Users can specify the beam waist.
@@ -21,6 +21,8 @@ Users can specify the beam waist.
 The generated amplitude map is presented below:
 
 ![](/lbsa/assets/images/Airy.bmp)
+
+[1] B.E.A. Saleh and M.C. Teich. Fundamentals of Photonics. Wiley Series in Pure and Applied Optics. Wiley, 2019.
  
 
 
