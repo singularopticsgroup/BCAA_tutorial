@@ -15,8 +15,7 @@ Users can specify the azimuthal and radial indexes (_l,p_).
 
 An example below represents: A) Laguerre-Gaussian beam _l_ = 1 _p_ = 0, B) Laguerre-Gaussian beam _l_ = 1 _p_ = 3
 <p align="center">
-\(U_{l,m}(\rho,\phi,z)=A_{l,m}\left[ \frac{W_{0}}{W(z)} \right]\left( \frac{\rho}{W(z)} \right)^l \mathbb{L}_{m}^l\left( \frac{2\rho^2}{W^2(z)} \ \right)\exp{\left( -\frac{\rho^2}{W^2(z)} \right)} \\
-\times \ \exp{\left[ -jkz -jk\frac{\rho^2}{2R(z)}+jm\phi+j(l+2m+1)\varsigma(z) \right]}\)
+\(E_{m,p}(r, \phi, 0) =\frac{1}{sqrt{2}}\frac{\rho}{w_0} \left( \frac{\rho \sqrt{2}}{w_0} \right)^l L_p^l \left( \frac{2\rho^2}{w_0^2} \right) \exp \left( -\frac{\rho^2}{w_0^2} \right)\)
 <p>
  
 
