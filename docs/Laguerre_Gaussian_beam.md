@@ -15,7 +15,7 @@ Users can specify the azimuthal and radial indexes (_l,p_).
 
 An example below represents: A) Laguerre-Gaussian beam _l_ = 1 _p_ = 0, B) Laguerre-Gaussian beam _l_ = 1 _p_ = 3
 <p align="center">
-\(E_{m,p}(r, \phi, 0) =\frac{1}{sqrt{2}}\frac{\rho}{w_0} \left( \frac{\rho \sqrt{2}}{w_0} \right)^l L_p^l \left( \frac{2\rho^2}{w_0^2} \right) \exp \left( -\frac{\rho^2}{w_0^2} \right)\)
+\(E_{m,p}(r, \phi, 0) =\frac{1}{\sqrt{2}}\left( \frac{\rho}{w_0} \right)^m L_m^p \left( \frac{2\rho^2}{w_0^2} \right) \exp \left( -\frac{\rho^2}{w_0^2} \right)\)
 <p>
  
 
