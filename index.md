@@ -14,17 +14,7 @@ The application is divided into two sections. The left section stands as an **co
 
 fsdgdgfsdg
 
-1. **Rayleigh Range**:
-
    $$ z_R = \frac{\pi w_0^2}{\lambda} $$
 
-2. **Beam Radius**:
 
-   $$ w(z) = w_0 \sqrt{1 + \left(\frac{z}{z_R}\right)^2} $$
 
-3. **Electric Field Distribution**:
-
-   $$ E(x,y,z) = E_0 \frac{w_0}{w(z)} \exp\left(-\frac{x^2 + y^2}{w(z)^2}\right) $$
-git add index.md
-git commit -m "Update index.md with LaTeX equations"
-git push origin main
