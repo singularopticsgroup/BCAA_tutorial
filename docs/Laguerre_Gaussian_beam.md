@@ -20,3 +20,5 @@ An example below represents: A) Laguerre-Gaussian beam _l_ = 1 _p_ = 0, B) Lague
  
 
 
+[1] Marek Wichtowski. Optyka liniowa. Wydawnictwo Naukowe PWN, Warszawa, 2020.
+[2] Rüdiger Paschotta. Beam quality deterioration of lasers caused by intracavity beam distortions. Opt. Express, 14(13):6069–6074, Jun 2006
