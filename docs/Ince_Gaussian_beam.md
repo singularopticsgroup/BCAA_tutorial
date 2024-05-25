@@ -10,3 +10,4 @@ nav_order: 8
 <p align="center">
   <img src="/BCAA_tutorial/assets/images/Ince_Gaussian_beam_box.png">
 </p>
+The Ince-Gaussian beam is a more complex solution of the wave equation that can be expressed using the Ince function. These beams are defined in elliptic coordinates and are a generalization of the Hermite-Gaussian and Laguerre-Gaussian beams. The Ince-Gaussian beam equation is presented below:
