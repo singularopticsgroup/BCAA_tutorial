@@ -13,7 +13,7 @@ nav_order: 4
 </p>
 This function is responsible for the generation of the amplitude map of Laguerre-Gaussian beam. Laguerre-Gaussian beam can be defined by the equation [1,2]: 
 <p align="center">
-\(LG^l_{p}=\frac{1}{\sqrt{2}}\left(\frac{\rho}{w_{0}}\right)^{|m|}\exp{\left[\frac{-\rho^2}{w_{0}^2}\right]}\exp{[jm\phi]}\)
+\(LG^l_{p}=\frac{1}{\sqrt{2}}\left(\frac{\rho}{w_{0}}\right)^{|m|}\exp{\left[\frac{-\rho^2}{w_{0}^2}\right]}\mathbb{L}_{p}^l\exp{[jm\phi]}\)
 <p>
 Users can specify the azimuthal and radial indexes \(l,p\) and the beam waist \(w_{0}\). An example below represents: A) Laguerre-Gaussian beam \(l = 1\), \(p = 0\) and \(w_{0} = 1\), B) Laguerre-Gaussian beam \(l = 1\), \(p = 3\) and \(w_{0} = 1\):
 <p align="center">
