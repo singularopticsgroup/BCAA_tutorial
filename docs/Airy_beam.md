@@ -11,3 +11,6 @@ nav_order: 7
   <img src="/BCAA_tutorial/assets/images/Airy_beam_box.png">
 </p>
 This function is responsible for the Airy beam hologram generation. Airy beam can be defined as:
+<p align="center">
+\(E(x,y)= \mathbb{Ai}\left(\frac{xk_{r}}{s}\right)  ,\)
+<p>
