@@ -2,7 +2,7 @@
 title: Light Structuring
 layout: default
 parent: Graphic User Interface
-nav_order: 2
+nav_order: 3
 has_children: true
 ---
 ## [](#header-2)Light Structuring
