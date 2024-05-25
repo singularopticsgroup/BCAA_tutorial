@@ -11,5 +11,7 @@ nav_order: 6
   <img src="/BCAA_tutorial/assets/images/Bessel_beam_box.png">
 </p>
 To generate the Bessel beam, user has to specify two parameters: refractive index and axicon angle. Moreover user can add optical vortex by controling the topological charge \(m\). Thanks to that the perfect optical vortex will be obtained. All parameters can be found in Bessel beam equation [1]:
-
+<p align="center">
+\(E(\rho,\phi)= \mathbb{J}_{1}\exp{\left(\jk_{z}z\right)}\exp{(jm\phi},\)
+<p>
 
