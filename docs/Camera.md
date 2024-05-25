@@ -20,7 +20,7 @@ Which successfully opens the app preview. In the last process, the user has to s
 </p>
 This opens the new window with the live camera preview.
 <p align="center">
-  <img src="/BCAA_tutorial/assets/images/Connect_preview.png">
+  <img src="/BCAA_tutorial/assets/images/Camera_preview.png">
 </p>
 
 ----
