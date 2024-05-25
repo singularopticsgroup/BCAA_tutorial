@@ -8,5 +8,5 @@ nav_order: 6
 ## [](#header-2)Bessel beam
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <p align="center">
-  <img src="/BCAA_tutorial/assets/images/Gaussian_beam.png">
+  <img src="/BCAA_tutorial/assets/images/Bessel_beam_box.png">
 </p>
