@@ -18,8 +18,9 @@ Users can specify the azimuthal and radial indexes \(l,p\).
 
 
 An example below represents: A) Laguerre-Gaussian beam \(l = 1\) \(p = 0\), B) Laguerre-Gaussian beam \(l = 1\) \(p = 3\)
-
- 
+<p align="center">
+  <img src="/BCAA_tutorial/assets/images/Laguerre_Gaussian.png">
+</p>
 
 
 [1] Marek Wichtowski. Optyka liniowa. Wydawnictwo Naukowe PWN, Warszawa, 2020.
