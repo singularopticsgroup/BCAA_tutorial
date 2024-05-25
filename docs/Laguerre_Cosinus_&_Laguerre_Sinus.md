@@ -13,7 +13,7 @@ nav_order: 5
 <p align="center">
   <img src="/BCAA_tutorial/assets/images/Laguerre_SinCos_box.png">
 </p>
-This functions are responsible for creating amplitude maps of Laguerre-Cosinus and Laguerre-Sinus beams. 
+This functions are responsible for creating amplitude maps of Laguerre-Cosinus and Laguerre-Sinus beams [1]. 
 <p align="center">
 \(LC^l_{p}=\frac{1}{\sqrt{2}}\left(\frac{\rho}{w_{0}}\right)^{|m|}\exp{\left[\frac{-\rho^2}{w_{0}^2}\right]}\mathbb{L}_{p}^l\exp{[jm\phi]}cos(l\phi,\)
 <p>
@@ -25,5 +25,5 @@ where \(m\) is a topological charge, \(\mathbb{L}_{p}^l\) is Laguerre polynomial
   <img src="/BCAA_tutorial/assets/images/Laguerre_SinCos.png">
 </p>
  
-
+[1] Liu, Kui & Cai, Chunxiao & Li, Juan & Ma, Long & Sun, Hengxin & Gao, J.R., Squeezing-enhanced rotating-angle measurement beyond the quantum limit. Applied Physics Letters (2018). 113. 261103. 10.1063/1.5066028. 
 
