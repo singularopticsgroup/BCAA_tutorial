@@ -14,7 +14,7 @@ Then the component starts working (A) and as the next step determines if the Ima
 <p align="center">
   <img src="/BCAA_tutorial/assets/images/Connect_with_camera_whole_process.png">
 </p>
-Which successfully opens the app preview. In the last process, the user has to select the proper camera resolution in the camera selection toolbar:
+If there is any connected camera the  camera selection toolbar will change color from gray (A) to white (B). Then as the last step, the user has to select the proper camera resolution in the camera selection toolbar (C-D):
 <p align="center">
   <img src="/BCAA_tutorial/assets/images/Select_camera.png">
 </p>
