@@ -32,3 +32,6 @@ Final result is presented below: A) Left: Laguerre-Gaussian beam $$w_{0}=1.5$$, 
   <img src="/BCAA_tutorial/assets/images/Divide_screen_result.png">
 </p>
 If global diffraction grating is selected to change sides of the screen the $$Left/Right$$ checboxes in $$Light$$ $$Structuring$$ tab can be used.
+<p align="center">
+  <img src="/BCAA_tutorial/assets/images/LR_LS.png">
+</p>
