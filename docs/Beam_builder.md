@@ -7,14 +7,11 @@ has_children: true
 ---
 ## [](#header-2)Beam Builder
 
-Light Structuring tab possess most of the built-in laser beam shaping functions. 
+Beam Builder tab includes all basic parameters necessary to generate amplitude maps.
 <p align="center">
-  <img src="/BCAA_tutorial/assets/images/Light_Structuring.png">
+  <img src="/BCAA_tutorial/assets/images/Beam_builder.png">
 </p>
-Each of them is designed as a separate internal function, which the user can turn on/off.
-<p align="center">
-  <img src="/BCAA_tutorial/assets/images/on_off.png">
-</p>
+
  
 
 
