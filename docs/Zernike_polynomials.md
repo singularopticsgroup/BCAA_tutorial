@@ -5,7 +5,7 @@ parent: Graphic User Interface
 nav_order: 3
 ---
 ## [](#header-2)Zernike polynomials
-
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 In order to manually introduce or subtract aberration, the Zernike polynomial component has been added as a separate function. 
 It allows the user to introduce Zernike polynomials, by specifying the value of polynomials having an azimuthal and radial index, 
 according to:
