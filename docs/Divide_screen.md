@@ -15,4 +15,4 @@ In this section users can divide DMD screen in half. Users can decide if the dif
   <img src="/BCAA_tutorial/assets/images/Divide_screen_1_3.png">
 </p>
 
-After that user has to go to the $$Light$$ $$Structuring$$  
+After that user has to go to the $$Light$$ $$Structuring$$ tab
