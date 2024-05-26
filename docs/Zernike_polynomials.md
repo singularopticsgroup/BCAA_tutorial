@@ -1,11 +1,10 @@
 ---
 title: Zernike
 layout: default
-parent: Beam shaping
-nav_order: 4
-
+parent: Graphic User Interface
+nav_order: 3
 ---
-## [](#header-2)Zernike
+## [](#header-2)Zernike polynomials
 
 In order to manually introduce or subtract aberration, the Zernike polynomial component has been added as a separate function. 
 It allows the user to introduce Zernike polynomials, by specifying the value of polynomials having an azimuthal and radial index, 
