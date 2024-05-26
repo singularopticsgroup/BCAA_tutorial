@@ -14,7 +14,7 @@ Here useres can control the source Wavelength [nm] and the beam waist [mm]. Both
 <p align="center">
   <img src="/BCAA_tutorial/assets/images/Beam_waist_LS_BB.png">
 </p>
-Examples of manipulating the beam waist $$\left(tw_{0}\right)$$: A) $$\left(w_{0}=1\right)$$; B) $$\left(w_{0}=2\right)$$.
+Examples of manipulating the beam waist $$\left(w_{0}\right)$$: A) $$w_{0}=1$$; B) $$w_{0}=2$$.
 <p align="center">
   <img src="/BCAA_tutorial/assets/images/Beam_waist_example.png">
 </p>
