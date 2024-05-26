@@ -12,9 +12,9 @@ nav_order: 8
 </p>
 The Ince-Gaussian beam is a more complex solution of the wave equation that can be expressed using the Ince function. These beams are defined in elliptic coordinates and are a generalization of the Hermite-Gaussian and Laguerre-Gaussian beams. The Ince-Gaussian beam equation is presented below [1]:
 <p align="center">
-\(E^{Parity}_{p,m}(\theta,\xi,z=0)=\frac{C_{p,m}}{w0}C^{m}_{p}(ec,\theta)C^{m}_{p}(ec,j\xi)exp\left(-\left(\frac{X^2+Y^2}{w0}\right)^2\right),\)
+\(E^{Parity}_{p,m}(\theta,\xi,z=0)=\frac{C_{p,m}}{w0}C^{m}_{p}\left(ec,\theta\right)C^{m}_{p}(ec,j\xi)exp\left(-\left(\frac{X^2+Y^2}{w0}\right)^2\right),\)
 <p>
-where \(C_{p,m}\) - normalization constant, \(C^{m}_{p}\) - even or odd Ince functions of order \(p\) and degree \(m\), \(m\) and \(p\) are the radial and angular elliptic mode numbers, \(ec\) - ellipticity parameter, (\(\xi, \theta\)) - elliptic coordinates, (\(X, Y\)) - Cartesian coordinates.
+where \(C_{p,m}\) - normalization constant, \(C^{m}_{p}\) - even or odd Ince functions of order \(p\) and degree \(m\), \(m\) and \(p\) are the radial and angular elliptic mode numbers, \(ec\) - ellipticity parameter, \(\left(\xi, \theta\right)\) - elliptic coordinates, \(\left(X, Y\right)\) - Cartesian coordinates.
   
 Users can modify 
 <p align="center">
