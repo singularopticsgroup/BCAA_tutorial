@@ -18,3 +18,6 @@ Another two parameters which can be controled by the user are the pixel size (co
 <p align="center">
   <img src="/BCAA_tutorial/assets/images/Rotate_example.png">
 </p>
+<p align="center">
+\(E(x,y,z=0) = exp\left(\frac{-\rho^2}{w_{0}^2}\right)\), where \(\rho = \sqrt{x^2+y^2}\)
+<p>
