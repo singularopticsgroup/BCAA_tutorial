@@ -23,7 +23,7 @@ By default, the function is restricted to 3rd-order Zernike polynomials, however
  more complex holograms can be easily achieved by the combination of those available.
 As the result, the set of polynomials will be combined into the final hologram and superposed with other BCAA functions, in the control panel.  
 
-The examples of using Zernike polynomial are presented below:
+The examples of using Zernike polynomial are presented below: A) Laguerre-Gaussian beam \(p=0\), \(l=1\),\(w_{0}=2\); B) Laguerre-Gaussian beam \(p=0\), \(l=1\),\(w_{0}=2\) with Vertical astigmatism \(\left(Value=100\right)\); C) Laguerre-Gaussian beam \(p=0\), \(l=1\),\(w_{0}=2\) with Vertical coma \(\left(Value=100\right)\); D) B) Laguerre-Gaussian beam \(p=0\), \(l=1\),\(w_{0}=2\) with Defocuse \(\left(Value=100\right)\).
 <p align="center">
   <img src="/BCAA_tutorial/assets/images/Zernike_example.png">
 </p>
