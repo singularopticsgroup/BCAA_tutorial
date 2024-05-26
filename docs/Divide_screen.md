@@ -19,4 +19,4 @@ After that user has to go to the $$Light$$ $$Structuring$$ tab and choose desire
 <p align="center">
   <img src="/BCAA_tutorial/assets/images/4.png">
 </p>
-User has to \(off\) piced function, then \(off\) the \(left\) button
+User has to \(off\) picked function, then \(off\) the \(left\) button. 
