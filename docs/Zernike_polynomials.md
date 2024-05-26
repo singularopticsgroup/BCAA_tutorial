@@ -1,5 +1,5 @@
 ---
-title: Zernike
+title: Zernike polynomials
 layout: default
 parent: Graphic User Interface
 nav_order: 3
