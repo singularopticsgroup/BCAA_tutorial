@@ -15,4 +15,8 @@ In this section users can divide DMD screen in half. Users can decide if the dif
   <img src="/BCAA_tutorial/assets/images/Divide_screen_1_3.png">
 </p>
 
-After that user has to go to the $$Light$$ $$Structuring$$ tab
+After that user has to go to the $$Light$$ $$Structuring$$ tab and choose desired function and parameters. If any checkbox will be \(on\), the rest of the functions won't be available.
+<p align="center">
+  <img src="/BCAA_tutorial/assets/images/4.png">
+</p>
+User has to \(off\) piced function, then \(off\) the \(left\) button
