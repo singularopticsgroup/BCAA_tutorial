@@ -24,5 +24,6 @@ By default, the function is restricted to 3rd-order Zernike polynomials, however
 As the result, the set of polynomials will be combined into the final hologram and superposed with other BCAA functions, in the control panel.  
 
 The examples of using Zernike polynomial are presented below:
-
-
+<p align="center">
+  <img src="/BCAA_tutorial/assets/images/Zernike_example.png">
+</p>
