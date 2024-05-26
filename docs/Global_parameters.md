@@ -14,7 +14,7 @@ Useres can control the Blazed grating in x and y direction (diffraction grating)
 <p align="center">
   <img src="/BCAA_tutorial/assets/images/Blazed_grating_example.png">
 </p>
-Another two parameters which can be controled by the user are the pixel size (constant for all presented holograms, equal to 8) and rotation of the beam.  Examples: A) $$Rotate=45^{\circ}$$; B) $$Rotate=68^{\cicr}$$.
+Another two parameters which can be controled by the user are the pixel size (constant for all presented holograms, equal to 8) and rotation of the beam.  Examples: A) $$Rotate=45^{\circ}$$; B) $$Rotate=68^{\circ}$$.
 <p align="center">
   <img src="/BCAA_tutorial/assets/images/Rotate_example.png">
 </p>
