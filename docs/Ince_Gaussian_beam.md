@@ -10,7 +10,7 @@ nav_order: 8
 <p align="center">
   <img src="/BCAA_tutorial/assets/images/Ince_Gaussian_beam_box.png">
 </p>
-The Ince-Gaussian beam is a more complex solution of the wave equation that can be expressed using the Ince function. These beams are defined in elliptic coordinates and are a generalization of the Hermite-Gaussian and Laguerre-Gaussian beams. The Ince-Gaussian beam equation is presented below:
+The Ince-Gaussian beam is a more complex solution of the wave equation that can be expressed using the Ince function. These beams are defined in elliptic coordinates and are a generalization of the Hermite-Gaussian and Laguerre-Gaussian beams. The Ince-Gaussian beam equation is presented below [1]:
 <p align="center">
 \(E^{Parity}_{p,m}(\theta,\xi,z=0)=\frac{C_{p,m}}{w0}C^{m}_{p}(ec,\theta)C^{m}_{p}(ec,j\xi)exp\left(-\left(\frac{X^2+Y^2}{w0}\right)^2\right),\)
 <p>
@@ -23,3 +23,7 @@ Users can modify
 <p align="center">
   <img src="/BCAA_tutorial/assets/images/Ince_Gaussian_odd.png">
 </p>
+
+
+
+[1] Zhou, G., Zhu, K., & Liu, F. (2007). Vectorial structure of Ince–Gaussian beam in the far field. Journal of Modern Optics, 54(18), 2807–2817. https://doi.org/10.1080/09500340701243616
