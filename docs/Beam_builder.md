@@ -1,5 +1,5 @@
 ---
-title: Beam_builder
+title: Beam Builder
 layout: default
 parent: Graphic User Interface
 nav_order: 2
