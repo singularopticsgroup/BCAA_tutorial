@@ -6,7 +6,7 @@ nav_order: 2
 ---
 ## [](#header-2)Camera
 
-This component is responsible for the app-camera connection. This is initiated by the user. The _Camera menu_ and then _Connect with camera_ button has to be pushed. 
+This component is responsible for the app-camera connection. This is initiated by the user. The `Camera menu` and then `Connect with camera` button has to be pushed. 
 <p align="center">
   <img src="/BCAA_tutorial/assets/images/Connect_with_camera.png">
 </p>
