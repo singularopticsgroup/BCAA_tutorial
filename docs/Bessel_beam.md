@@ -28,5 +28,6 @@ And the last thing, which can be changed by the user, is adding topological char
   <img src="/BCAA_tutorial/assets/images/Bessel_m.png">
 </p>
 For all examples the blazed grating is equal to \(x=300\), \(y=300\).
-
+<p>
+</p>
 [1] Mansi Baliyan and Naveen K Nishchal 2023 J. Opt. 25 095702, DOI 10.1088/2040-8986/ace919
