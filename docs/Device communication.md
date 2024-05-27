@@ -8,7 +8,7 @@ nav_order: 2
 
 ![](/lbsa/assets/images/Control_full.png)
 
-The main part of this section of BCAA is the communication with external devices. The BCAA requires MATLAB 2023b or newer, with the Image Acqusition Toolbox. Additionally, user is responsible to install adaptors enabling software - camera communication, through add-ons avaialble within MATLAB. At the initation phase, the BCAA will check available components and display their status in the commend line.
+The main part of this section of BCAA is the communication with external devices. The BCAA requires MATLAB 2023b or newer, with the Image Acqusition Toolbox. Additionally, user is responsible to install adaptors enabling software - camera communication, through add-ons availble within MATLAB. At the initation phase, the BCAA will check available components and display their status in the commend line.
 
 In the brought example, three such adaptors were installed: winvideo, gentl, gige. Two among them detected cameras connected to the computer, therefore they were mentioned as a Detected cameras. Additionally, BCAA detected one DMD having the 1920 x 1080 resolution.
 <p align="center">
