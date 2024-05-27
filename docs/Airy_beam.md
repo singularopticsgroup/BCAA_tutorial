@@ -19,3 +19,5 @@ where \(Ai\) is Airy function, \(X,Y\) - x,y coordinate defined as the resolutio
 <p align="center">
   <img src="/BCAA_tutorial/assets/images/Airy_beam.png">
 </p>
+
+[1] Voloch-Bloch, N., Lereah, Y., Lilach, Y. et al. Generation of electron Airy beams. Nature 494, 331–335 (2013). https://doi.org/10.1038/nature11840
