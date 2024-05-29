@@ -1,6 +1,6 @@
 title: BCAA
 description: Tutorial for the Binary Complex Amplitude App
-theme: just-the-docs
+theme: "just-the-docs"
 
 markdown: kramdown
 kramdown:
