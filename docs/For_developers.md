@@ -11,7 +11,7 @@ has_children: false
 The first critical operation involves a decision diamond titled "Does input exist?" This checks for the necessary input parameters such as _libName_, _hFileName_, and _deviceNum_, which are essential for configuring the system.
  
 If the inputs are absent, the path from the decision diamond indicates that the system will automatically fill the input fields with default values or placeholders, such as empty brackets. This step prepares the system for initialization even without specific user inputs.
- 
+  
 Moving on to the _Initiate DLL_ phase, this function begins by assessing if the inputs are still empty after the attempt to populate them with default values. If they are, it fills them with defaults and proceeds to load the DLL library corresponding to the _libName_ and _hFileName_. This step is crucial as it establishes the linkages required for subsequent device interactions.
  
 The next segment, _Initiate Device_, deals with direct hardware interactions. It involves connecting to the device using the DLL, retrieving device properties such as Device ID and DMD size, and assigning these properties to ensure the device is configured correctly and ready for operation.y configurations and dependencies are correctly handled before any device operations begin.
