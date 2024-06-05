@@ -10,7 +10,7 @@ To operate, it requires a MATLAB R2023b or newer with an active Image Acquisitio
 The application is divided into two sections. The left section stands as an **Device communication** one, allowing the user to see what kind of hologram is currently displayed at the DMD Screen, to load external data or control the external camera. The right section is responsible for **Graphic User Interface** - the modification of hologram parameters as well as for operating the beam correction algorithms.
 
 <p align="center">
-  <img src="/BCAA_tutorial/assets/images/BCAA_v2.png">
+  <img src="/BCAA_tutorial/assets/images/Introduction.png">
 </p>
 
 
