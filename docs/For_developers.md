@@ -7,6 +7,9 @@ has_children: false
 ## [](#header-2)Technical Panel
 **DMD Base Control Constructor**
 
+<p align="center">
+  <img src="/BCAA_tutorial/assets/images/initiating the program.png">
+</p>
 
 The first critical operation involves a decision diamond titled "Does input exist?" This checks for the necessary input parameters such as _libName_, _hFileName_, and _deviceNum_, which are essential for configuring the system.
  
@@ -18,6 +21,9 @@ The next segment, _Initiate Device_, deals with direct hardware interactions. It
  
 **callDLLFun**
 
+<p align="center">
+  <img src="/BCAA_tutorial/assets/images/DLL.png">
+</p>
 
 The function within the DLL is called using the syntax _calllib(obj.libName, funName, varargin{:})_, with the funName (the name of the function) and varargin (a list of variable arguments) as inputs.
  
